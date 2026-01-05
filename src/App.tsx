@@ -8,9 +8,7 @@ import {
   Send,
   X,
   Check,
-  MessageSquare,
-  Clock,
-  MapPin,
+  MessageSquare
 } from "lucide-react";
 
 interface MenuItem {
